@@ -1,0 +1,119 @@
+Vector reduction: Input size 1000
+Vector reduction: Block size 32
+CPU results : 508.125519
+GPU results : 508.125519
+Overall Execution Time (Memory + GPU): 0.077000 (ms)
+ 
+Vector reduction: Input size 10000
+Vector reduction: Block size 32
+CPU results : 4971.319336
+GPU results : 4971.319336
+Overall Execution Time (Memory + GPU): 0.099000 (ms) 
+
+Vector reduction: Input size 100000
+Vector reduction: Block size 32
+CPU results : 49986.671875
+GPU results : 49986.671875
+Overall Execution Time (Memory + GPU): 0.346000 (ms) 
+
+Vector reduction: Input size 1000000
+Vector reduction: Block size 32
+CPU results : 500003.750000
+GPU results : 500003.750000
+Overall Execution Time (Memory + GPU): 2.272000 (ms) 
+
+Vector reduction: Input size 2000000
+Vector reduction: Block size 32
+CPU results : 999969.375000
+GPU results : 999969.375000
+Overall Execution Time (Memory + GPU): 4.159000 (ms) 
+
+Vector reduction: Input size 1000
+Vector reduction: Block size 64
+CPU results : 508.125519
+GPU results : 508.125519
+Overall Execution Time (Memory + GPU): 0.077000 (ms) 
+
+Vector reduction: Input size 10000
+Vector reduction: Block size 64
+CPU results : 4971.319336
+GPU results : 4971.319336
+Overall Execution Time (Memory + GPU): 0.097000 (ms) 
+
+Vector reduction: Input size 100000
+Vector reduction: Block size 64
+CPU results : 49986.671875
+GPU results : 49986.671875
+Overall Execution Time (Memory + GPU): 0.327000 (ms) 
+
+Vector reduction: Input size 1000000
+Vector reduction: Block size 64
+CPU results : 500003.750000
+GPU results : 500003.750000
+Overall Execution Time (Memory + GPU): 1.994000 (ms) 
+
+Vector reduction: Input size 2000000
+Vector reduction: Block size 64
+CPU results : 999969.375000
+GPU results : 999969.375000
+Overall Execution Time (Memory + GPU): 3.625000 (ms) 
+
+Vector reduction: Input size 1000
+Vector reduction: Block size 128
+CPU results : 508.125519
+GPU results : 508.125519
+Overall Execution Time (Memory + GPU): 0.077000 (ms) 
+
+Vector reduction: Input size 10000
+Vector reduction: Block size 128
+CPU results : 4971.319336
+GPU results : 4971.319336
+Overall Execution Time (Memory + GPU): 0.095000 (ms) 
+
+Vector reduction: Input size 100000
+Vector reduction: Block size 128
+CPU results : 49986.671875
+GPU results : 49986.671875
+Overall Execution Time (Memory + GPU): 0.306000 (ms) 
+
+Vector reduction: Input size 1000000
+Vector reduction: Block size 128
+CPU results : 500003.750000
+GPU results : 500003.750000
+Overall Execution Time (Memory + GPU): 1.850000 (ms) 
+
+Vector reduction: Input size 2000000
+Vector reduction: Block size 128
+CPU results : 999969.375000
+GPU results : 999969.375000
+Overall Execution Time (Memory + GPU): 3.346000 (ms) 
+
+Vector reduction: Input size 1000
+Vector reduction: Block size 256
+CPU results : 508.125519
+GPU results : 508.125519
+Overall Execution Time (Memory + GPU): 0.078000 (ms) 
+
+Vector reduction: Input size 10000
+Vector reduction: Block size 256
+CPU results : 4971.319336
+GPU results : 4971.319336
+Overall Execution Time (Memory + GPU): 0.095000 (ms) 
+
+Vector reduction: Input size 100000
+Vector reduction: Block size 256
+CPU results : 49986.671875
+GPU results : 49986.671875
+Overall Execution Time (Memory + GPU): 0.307000 (ms) 
+
+Vector reduction: Input size 1000000
+Vector reduction: Block size 256
+CPU results : 500003.750000
+GPU results : 500003.750000
+Overall Execution Time (Memory + GPU): 1.836000 (ms) 
+
+Vector reduction: Input size 2000000
+Vector reduction: Block size 256
+CPU results : 999969.375000
+GPU results : 999969.375000
+Overall Execution Time (Memory + GPU): 3.306000 (ms) 
